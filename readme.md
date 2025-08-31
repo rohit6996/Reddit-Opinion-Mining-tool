@@ -43,6 +43,21 @@ reddit-opinion-polls/
 
 ---
 
+## Testing
+
+This project includes several testing modules to verify functionality:
+
+- `main2.py` → Dummy testing file for quick experiments (not for production).
+- `test_analyze_comments.py` → Tests comment analysis & sentiment classification.
+- `test_fetch_comments.py` → Tests Reddit API comment fetching.
+- `test_visualize_results.py` → Tests plotting and visualization output.
+
+Run all tests with:
+```bash
+pytest
+
+
+
 ## ⚙️ Setup & Installation
 
 1. **Clone repo**
