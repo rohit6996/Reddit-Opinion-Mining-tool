@@ -128,13 +128,17 @@ For the question **“Is AI dangerous?”**
 
 | Sentiment | Count |
 | --------- | ----- |
-| Positive  | 15    |
-| Negative  | 12    |
-| Neutral   | 8     |
+| Agree     | 15    |
+| Disagree  | 12    |
+| Neutral   | 5     |
+| Offtopic  | 20    |
 
-📉 **Visualization:** Pie chart of opinions
+## Example Output
 
----
+Here’s a sample visualization:
+
+![Poll Results]("C:\Users\Rohit\Downloads\Mining result.png")
+
 
 ## 💡 Future Improvements
 
