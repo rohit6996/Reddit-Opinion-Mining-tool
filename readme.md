@@ -137,7 +137,7 @@ For the question **“Is AI dangerous?”**
 
 Here’s a sample visualization:
 
-![Poll Results]("C:\Users\Rohit\Downloads\Mining result.png")
+![Poll Results]("Mining result.png")
 
 
 ## 💡 Future Improvements
