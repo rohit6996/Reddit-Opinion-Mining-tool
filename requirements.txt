@@ -1,2 +1,5 @@
-praw==7.7.1
-python-dotenv==1.0.1
+praw
+nltk
+matplotlib
+pandas
+scikit-learn
